@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=hello_world!)
+
+<p align="center">
+  <img src="https://github.com/yapyap2/yapyap2/assets/99272057/13b53010-972e-443f-bf24-83efc5b4c963" alt="header">
+</p>
+
+
 # 안녕하세요! 개발자 정원우입니다.
 
-<div>
-  
-  
-</div>
 
 
 ## About me
@@ -14,7 +15,8 @@
 
 ---
 
-
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapyap2)](https://github.com/yapyap2/github-readme-stats)
+---
 
 ### Contact
 Email: wonwoo42@gmail.com
