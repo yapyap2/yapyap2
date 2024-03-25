@@ -14,12 +14,14 @@
 > #### Romance: A developer who doesn't do anything without romance
 
 ---
+
 <div style="display: flex; align-items: flex-start;", align="center">
         <a href="https://github-readme-stats.vercel.app/api?username=yapyap2" style="margin-right: 20px;">
             <img src="https://github-readme-stats.vercel.app/api?username=yapyap2" alt="minseon yu's GitHub stats" style="height: 200px;">
         </a>
 </div>
 
+---
 
 ### Contact
 Email: wonwoo42@gmail.com
