@@ -60,3 +60,4 @@ https://github.com/yapyap2/StravaRefactoring
 - 좌표에 대한 주소 검색시 ExecutorService를 사용한 멀티 스레드 병렬처리를 도입하여 싱글 스레드 대비 처리속도 1/3 수준으로 경감
 - Bulk insert 구현을 통해 데이터베이스 통신 횟수 절약
 - 프론트 엔드 개발자 1명과의 협업 프로젝트입니다.
+# 이곳에 개발 기간을 추가하면 좋을 것 같아요
