@@ -14,8 +14,11 @@
 > #### Romance: A developer who doesn't do anything without romance
 
 ---
-
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yapyap2)](https://github.com/yapyap2/github-readme-stats)
+<div style="display: flex; align-items: flex-start;", align="center">
+        <a href="https://github-readme-stats.vercel.app/api?username=yapyap2" style="margin-right: 20px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=yapyap2" alt="minseon yu's GitHub stats" style="height: 200px;">
+        </a>
+</div>
 ---
 
 ### Contact
@@ -60,4 +63,4 @@ https://github.com/yapyap2/StravaRefactoring
 - 좌표에 대한 주소 검색시 ExecutorService를 사용한 멀티 스레드 병렬처리를 도입하여 싱글 스레드 대비 처리속도 1/3 수준으로 경감
 - Bulk insert 구현을 통해 데이터베이스 통신 횟수 절약
 - 프론트 엔드 개발자 1명과의 협업 프로젝트입니다.
-### 개발기간: 2023.02 ~ 2023.07
+#### 개발기간: 2023.02 ~ 2023.07
